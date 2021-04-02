@@ -53,9 +53,9 @@
     "big-integer": "^1.6.48",
     "bignum": "^0.13.1",
     "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
-    "merkle-bitcoin": "^1.0.2",
+    "merkle-bitcoin": "*",
     "promise": "*",
-    "sha3": "git+https://github.com/phusion/node-sha3.git"
+    "sha3": "*"
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
